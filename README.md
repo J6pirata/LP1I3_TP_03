@@ -1,4 +1,4 @@
-# LP1I3_TP_03
+# LP1I3_TP_003
 import java.util.Scanner;
 
 class Hora{
