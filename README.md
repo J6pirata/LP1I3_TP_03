@@ -81,7 +81,7 @@ class Hora{
         String am_pm = " PM";
         
         if (this.getHor() < 12) {
-           " AM ";
+          String am_pm = " AM ";
         }
 
         System.out.println(hora + ":" + this.minuto + ":" + this.segundo + am_pm);
